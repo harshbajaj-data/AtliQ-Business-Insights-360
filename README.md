@@ -1,4 +1,4 @@
-x# AtliQ Business Insights 360 | Power BI
+# AtliQ Business Insights 360 | Power BI
 
 An end-to-end **Business Intelligence dashboard** built using **Power BI**, designed to provide a **360° view of business performance** across **Finance, Sales, Marketing, Supply Chain, and Executive leadership**.
 
@@ -9,7 +9,11 @@ This project simulates a **real-world enterprise BI environment**, focusing on *
 ## 🔗 Project Links
 
 * 📊 **Live Interactive Dashboard (Power BI Service):**
-  [Dashboard](https://app.powerbi.com/view?r=YOUR_LINK_HERE)
+  [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmExYmNhMTItYTE1Ny00MzY3LTk3NzUtMjVhZGIyMTJlY2E3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c681eb553d9650414aee)
+
+* Power BI File
+Due to file size limitations, the PBIX file is hosted externally:
+[Download PBIX](https://drive.google.com/drive/folders/1pW22ynzSiLrg8tmMQnYrryhyOAILOOLN?usp=drive_link)
 
 * 💼 **LinkedIn Profile:**
   [LinkedIn](https://www.linkedin.com/in/harsh-bajaj-data-analyst/)
@@ -50,14 +54,6 @@ You are a **Data Analyst** responsible for building a **Business Insights 360 da
 
 ---
 
-## Overall Analysis View
-
-<p align="center">
-  <img src="Screenshots/overall_view.png" width="800">
-</p>
-
----
-
 ## Finance View
 
 <p align="center">
@@ -69,7 +65,15 @@ You are a **Data Analyst** responsible for building a **Business Insights 360 da
 ## Sales & Marketing View
 
 <p align="center">
-  <img src="Screenshots/sales_marketing_view.png" width="800">
+  <img src="Screenshots/sales_view.png" width="800">
+</p>
+
+---
+
+## Sales & Marketing View
+
+<p align="center">
+  <img src="Screenshots/marketing_view.png" width="800">
 </p>
 
 ---
