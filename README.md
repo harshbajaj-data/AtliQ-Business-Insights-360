@@ -11,8 +11,8 @@ This project simulates a **real-world enterprise BI environment**, focusing on *
 * 📊 **Live Interactive Dashboard (Power BI Service):**
   [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmExYmNhMTItYTE1Ny00MzY3LTk3NzUtMjVhZGIyMTJlY2E3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c681eb553d9650414aee)
 
-* Power BI File
-Due to file size limitations, the PBIX file is hosted externally:
+* 📁 **Power BI File
+Due to file size limitations, the PBIX file is hosted externally:**
 [Download PBIX](https://drive.google.com/drive/folders/1pW22ynzSiLrg8tmMQnYrryhyOAILOOLN?usp=drive_link)
 
 * 💼 **LinkedIn Profile:**
