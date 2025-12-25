@@ -62,7 +62,7 @@ You are a **Data Analyst** responsible for building a **Business Insights 360 da
 
 ---
 
-## Sales & Marketing View
+## Sales View
 
 <p align="center">
   <img src="Screenshots/sales_view.png" width="800">
@@ -70,7 +70,7 @@ You are a **Data Analyst** responsible for building a **Business Insights 360 da
 
 ---
 
-## Sales & Marketing View
+## Marketing View
 
 <p align="center">
   <img src="Screenshots/marketing_view.png" width="800">
